@@ -1,0 +1,17 @@
+body {
+    font-size: 18px;
+    line-height: 27px;
+    background-color:black;
+    color:white;
+    font-family: "Roboto Condensed", sans-serif;
+  }
+.intro {
+    margin:center;
+
+}
+p {
+  font-family: "Space Mono", sans-serif;
+}
+.myName {
+    color:greenyellow;
+}
